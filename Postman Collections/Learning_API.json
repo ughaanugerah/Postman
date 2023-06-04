@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Test Req",
 			"id": "b5434477-446d-413f-ae5b-cacefdd4f45e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
